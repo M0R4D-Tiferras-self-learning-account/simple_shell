@@ -36,6 +36,3 @@ This is a simple shell program written in C. It allows you to execute shell comm
 - [Ayoub882](https://github.com/Ayoub882)
 - [Mourad Tiferras](https://github.com/M0R4D-Tiferras-self-learning-account)
 
-## License
-
-:)|(:
